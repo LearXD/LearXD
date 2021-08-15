@@ -2,11 +2,11 @@
 <h1 align="center"> Hello 👋, I`m LearXD </h1>
 <p align="center"> This is the first time I've created a readme.md for my profile, I still don't know how to use it right but I'll try to develop something cool. </p>
 
-<p align="center"> 
+<div align="center"> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=LearXD&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
 
-</p>
+</div>
 
 <h2 align="center"> Languages i know :nerd_face: </h1> 
 
