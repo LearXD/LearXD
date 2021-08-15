@@ -15,8 +15,8 @@
 <h2 align="center"> Social networks... </h1> 
 
 <p align="center">
-<a href="https://google.com"> <img src="./images/twitter.png"/> </a>
-<a href="https://google.com"> <img src="./images/YouTube.png" /> </a>
+<a href="https://twitter.com/XDLear"> <img src="./images/twitter.png" height="40" /> </a>
+<a href="https://youtube.com/c/LearXD%E4%B9%A1"> <img src="./images/YouTube.png" height="40" /> </a>
 </p>
 
 <hr>
