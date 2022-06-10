@@ -1,4 +1,9 @@
 <hr>
+
+> **Warning**
+
+> Below you will find some information about me
+
 <h1 align="center"> Hello 👋, I`m LearXD </h1>
 <p align="center"> Welcome to my profile, I am a young systems developer. Take the opportunity to follow me, and if you like any repository don't forget to give me a star :star: </p>
 
