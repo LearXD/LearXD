@@ -10,6 +10,7 @@
 <div align="center"> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=LearXD&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learxd&layout=compact&theme=buefy&hide_border=true) 
 
 </div>
 
