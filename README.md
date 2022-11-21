@@ -1,17 +1,18 @@
 <hr>
 
-> **Warning**
-
-> Below you will find some information about me
-
 <h1 align="center"> Hello 👋, I`m LearXD </h1>
 <p align="center"> Welcome to my profile, I am a young systems developer. Take the opportunity to follow me, and if you like any repository don't forget to give me a star :star: </p>
 
 <div align="center"> 
-
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=LearXD&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learxd&layout=compact&theme=buefy&hide_border=true) 
+  
+</div>
 
+<div align="center"> 
+  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learxd&layout=compact&theme=buefy&hide_border=true) 
+  
 </div>
 
 <h2 align="center"> My works :package: </h1> 
