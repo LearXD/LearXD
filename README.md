@@ -17,9 +17,6 @@ My name is Miguel, and I'm a Software Engineering student!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LearXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@XDLear)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LearXD&icon=8&color=12)](https://visitcount.itsvg.in)
 
