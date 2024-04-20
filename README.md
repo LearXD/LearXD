@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-silva-pinheiro-1b1b52241)
 
-My name is Miguel, and I'm a Software Engineering student!
+My name is Miguel, and I'm a Computer Science student!
 
 # 💻 Specialties:
 ### 🎯 Main target
